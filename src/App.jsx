@@ -1,6 +1,6 @@
-import React from "react";
-
 const App = () => {
+  console.log("hello world ");
+
   return <div>App</div>;
 };
 
